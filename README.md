@@ -1,6 +1,6 @@
 # CV
 
-## Realization of laboratory works on Virtualization and Containerization
+## Realization of laboratory works 
 
 ![alt text](images/image.png)
 
